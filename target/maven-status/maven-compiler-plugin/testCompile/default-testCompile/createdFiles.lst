@@ -1,0 +1,5 @@
+hooks\MyHooks.class
+pages\LoginPage.class
+pages\DashboardPage.class
+factory\DriverFactory.class
+stepdefinitions\Login.class
